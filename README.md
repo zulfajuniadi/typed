@@ -53,7 +53,7 @@ check this [twitter thread](https://twitter.com/dshafik/status/10842484431182192
 
 ---
 
-### Compoer installation :
+### Composer installation :
 ```console
 soon
 ```
